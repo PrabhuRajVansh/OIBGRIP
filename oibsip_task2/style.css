@@ -1,0 +1,132 @@
+body{
+    background-image: url("user.jpg");
+    background-repeat: no-repeat;
+    size: 100%;
+    background-color: rgba(8, 8, 7, 0.607);
+    background-position: top  right ;
+    
+}
+.profession{
+  background-color: aliceblue;
+  background-size: cover;
+  height: 650px;
+  width: 100%;
+}
+.profession h3{
+  margin-left: 50px;
+  font-size: 40px;
+}
+.profession p{
+  color: #000000;
+}
+header{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: aliceblue;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    color: aliceblue;
+    margin-left: 40px;
+    margin-top: 220px;
+    margin-bottom: 10px;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: aliceblue;
+    margin-left: 40px;
+    margin-top: 2px;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: aliceblue;
+    margin-left: 40px;
+}
+ul {
+list-style-type: none;
+margin-top: 8px;
+padding: 0;
+padding-left: 1050px;
+}
+li {
+display: inline;
+margin-left: 35px;
+}
+.nav{
+display: flex;
+}
+.nav ul li a{
+text-decoration: none;
+font-size: larger;
+}
+.input {
+display: flex;
+align-items: center;
+}
+.button {
+height: 44px;
+border: none;
+margin-left: 40px;
+}
+#email {
+width: 300px;
+background: #FDFCFB;
+font-family: inherit;
+color: #737373;
+letter-spacing: 1px;
+text-indent: 5%;
+border-radius: 5px 0 0 5px;
+
+}
+#submit {
+width: 150px;
+height: 46px;
+background: #000000;
+font-family: inherit;
+font-weight: bold;
+color: aliceblue;
+letter-spacing: 1px;
+border-radius: 0 5px 5px 0;
+cursor: pointer;
+
+margin-left: 0px;
+}
+
+.services{
+height: 500px;
+}
+
+.element{
+margin-left: 6%;
+}
+.sub {
+display: flex;
+}
+.sub p{
+padding-left: 60px;
+
+}
+.connect{
+background-color: #FDFCFB;
+height: 300px;
+margin-top: 200px;
+
+}
+.connect h1{
+color: #000000;
+padding-top: 20px;
+margin-right: 50%;
+}
+#foot{
+display: flex;
+padding-left: 660px;
+
+}
+.connect p{
+color: #000000;
+}
